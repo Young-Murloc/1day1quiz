@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2016년0206.cpp" />
+    <ClCompile Include="3진법뒤집기0207.cpp" />
     <ClCompile Include="두개뽑아서더하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
