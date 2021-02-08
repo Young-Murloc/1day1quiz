@@ -24,5 +24,8 @@
     <ClCompile Include="3진법뒤집기0207.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="가운데글자가져오기0208.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
