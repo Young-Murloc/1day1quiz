@@ -6,3 +6,5 @@ https://programmers.co.kr/learn/challenges
 0206: 두개 뽑아서 더하기 / 2016년
 
 0207: 3진법 뒤집기
+
+0208: 가운데 글자 가져오기
