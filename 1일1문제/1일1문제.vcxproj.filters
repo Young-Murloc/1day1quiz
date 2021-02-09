@@ -27,5 +27,17 @@
     <ClCompile Include="가운데글자가져오기0208.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="수박수박수박수박수박수박수0209.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="두정수사이의합0209.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열내림차순으로배치하기0209.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열다루기기본0209.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
