@@ -39,5 +39,8 @@
     <ClCompile Include="문자열다루기기본0209.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="문자열을정수로바꾸기0210.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

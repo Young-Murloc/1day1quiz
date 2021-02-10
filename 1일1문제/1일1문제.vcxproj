@@ -146,6 +146,7 @@
     <ClCompile Include="두정수사이의합0209.cpp" />
     <ClCompile Include="문자열내림차순으로배치하기0209.cpp" />
     <ClCompile Include="문자열다루기기본0209.cpp" />
+    <ClCompile Include="문자열을정수로바꾸기0210.cpp" />
     <ClCompile Include="수박수박수박수박수박수박수0209.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
