@@ -42,5 +42,11 @@
     <ClCompile Include="문자열을정수로바꾸기0210.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="내적0216.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이상한 문자 만들기0216.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
