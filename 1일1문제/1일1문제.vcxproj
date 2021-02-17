@@ -150,6 +150,8 @@
     <ClCompile Include="문자열을정수로바꾸기0210.cpp" />
     <ClCompile Include="수박수박수박수박수박수박수0209.cpp" />
     <ClCompile Include="이상한 문자 만들기0216.cpp" />
+    <ClCompile Include="짝수와홀수0217.cpp" />
+    <ClCompile Include="하샤드수0218.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
