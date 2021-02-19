@@ -152,6 +152,7 @@
     <ClCompile Include="이상한 문자 만들기0216.cpp" />
     <ClCompile Include="짝수와홀수0217.cpp" />
     <ClCompile Include="하샤드수0218.cpp" />
+    <ClCompile Include="핸드폰번호가리기0219.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
