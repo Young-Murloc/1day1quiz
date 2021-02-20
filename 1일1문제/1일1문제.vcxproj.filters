@@ -57,5 +57,8 @@
     <ClCompile Include="핸드폰번호가리기0219.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="콜라츠추측0220.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

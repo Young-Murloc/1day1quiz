@@ -151,6 +151,7 @@
     <ClCompile Include="수박수박수박수박수박수박수0209.cpp" />
     <ClCompile Include="이상한 문자 만들기0216.cpp" />
     <ClCompile Include="짝수와홀수0217.cpp" />
+    <ClCompile Include="콜라츠추측0220.cpp" />
     <ClCompile Include="하샤드수0218.cpp" />
     <ClCompile Include="핸드폰번호가리기0219.cpp" />
   </ItemGroup>
