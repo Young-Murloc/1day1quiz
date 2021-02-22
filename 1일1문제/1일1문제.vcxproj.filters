@@ -60,5 +60,23 @@
     <ClCompile Include="콜라츠추측0220.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="평균구하기0222.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="자연수뒤집어배열로만들기0222.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="자릿수더하기0222.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="정수제곱근판별0222.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="직사각형별찍기0222.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="약수의합0222.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
