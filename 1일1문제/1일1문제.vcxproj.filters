@@ -84,5 +84,8 @@
     <ClCompile Include="삼각달팽이.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="완주하지못한선수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
