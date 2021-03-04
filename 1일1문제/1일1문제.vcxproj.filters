@@ -81,10 +81,13 @@
     <ClCompile Include="스킬트리0225.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="삼각달팽이.cpp">
+    <ClCompile Include="큰수만들기0304.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="완주하지못한선수.cpp">
+    <ClCompile Include="완주하지못한선수0303.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각달팽이0303.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
