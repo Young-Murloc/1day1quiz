@@ -142,6 +142,7 @@
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
     <ClCompile Include="가운데글자가져오기0208.cpp" />
+    <ClCompile Include="가장큰수0305.cpp" />
     <ClCompile Include="내적0216.cpp" />
     <ClCompile Include="두개뽑아서더하기.cpp" />
     <ClCompile Include="두정수사이의합0209.cpp" />
