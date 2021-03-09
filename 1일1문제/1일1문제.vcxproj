@@ -155,6 +155,7 @@
     <ClCompile Include="약수의합0222.cpp" />
     <ClCompile Include="완주하지못한선수0303.cpp" />
     <ClCompile Include="이상한 문자 만들기0216.cpp" />
+    <ClCompile Include="이진변환반복하기0309.cpp" />
     <ClCompile Include="자릿수더하기0222.cpp" />
     <ClCompile Include="자연수뒤집어배열로만들기0222.cpp" />
     <ClCompile Include="정수제곱근판별0222.cpp" />
