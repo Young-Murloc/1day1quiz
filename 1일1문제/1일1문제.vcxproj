@@ -164,6 +164,7 @@
     <ClCompile Include="콜라츠추측0220.cpp" />
     <ClCompile Include="큰수만들기0304.cpp" />
     <ClCompile Include="평균구하기0222.cpp" />
+    <ClCompile Include="피보나치수0310.cpp" />
     <ClCompile Include="하샤드수0218.cpp" />
     <ClCompile Include="핸드폰번호가리기0219.cpp" />
   </ItemGroup>
