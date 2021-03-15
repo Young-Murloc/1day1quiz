@@ -139,10 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
     <ClCompile Include="가운데글자가져오기0208.cpp" />
     <ClCompile Include="가장큰수0305.cpp" />
+    <ClCompile Include="구명보트.cpp" />
     <ClCompile Include="기능개발.cpp" />
     <ClCompile Include="내적0216.cpp" />
     <ClCompile Include="두개뽑아서더하기.cpp" />
@@ -162,6 +164,7 @@
     <ClCompile Include="정수제곱근판별0222.cpp" />
     <ClCompile Include="직사각형별찍기0222.cpp" />
     <ClCompile Include="짝수와홀수0217.cpp" />
+    <ClCompile Include="카펫0315.cpp" />
     <ClCompile Include="콜라츠추측0220.cpp" />
     <ClCompile Include="큰수만들기0304.cpp" />
     <ClCompile Include="평균구하기0222.cpp" />
