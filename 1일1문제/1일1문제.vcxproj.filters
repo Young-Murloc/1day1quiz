@@ -99,9 +99,6 @@
     <ClCompile Include="피보나치수0310.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="프린터.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="기능개발.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -112,6 +109,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="구명보트.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="더맵게0316.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="H-Index0316.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프린터0315.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자의표현0316.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="올바른괄호0316.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

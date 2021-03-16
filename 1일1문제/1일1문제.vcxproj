@@ -142,11 +142,13 @@
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
+    <ClCompile Include="H-Index0316.cpp" />
     <ClCompile Include="가운데글자가져오기0208.cpp" />
     <ClCompile Include="가장큰수0305.cpp" />
     <ClCompile Include="구명보트.cpp" />
     <ClCompile Include="기능개발.cpp" />
     <ClCompile Include="내적0216.cpp" />
+    <ClCompile Include="더맵게0316.cpp" />
     <ClCompile Include="두개뽑아서더하기.cpp" />
     <ClCompile Include="두정수사이의합0209.cpp" />
     <ClCompile Include="문자열내림차순으로배치하기0209.cpp" />
@@ -154,8 +156,10 @@
     <ClCompile Include="문자열을정수로바꾸기0210.cpp" />
     <ClCompile Include="삼각달팽이0303.cpp" />
     <ClCompile Include="수박수박수박수박수박수박수0209.cpp" />
+    <ClCompile Include="숫자의표현0316.cpp" />
     <ClCompile Include="스킬트리0225.cpp" />
     <ClCompile Include="약수의합0222.cpp" />
+    <ClCompile Include="올바른괄호0316.cpp" />
     <ClCompile Include="완주하지못한선수0303.cpp" />
     <ClCompile Include="이상한 문자 만들기0216.cpp" />
     <ClCompile Include="이진변환반복하기0309.cpp" />
@@ -168,7 +172,7 @@
     <ClCompile Include="콜라츠추측0220.cpp" />
     <ClCompile Include="큰수만들기0304.cpp" />
     <ClCompile Include="평균구하기0222.cpp" />
-    <ClCompile Include="프린터.cpp" />
+    <ClCompile Include="프린터0315.cpp" />
     <ClCompile Include="피보나치수0310.cpp" />
     <ClCompile Include="하샤드수0218.cpp" />
     <ClCompile Include="핸드폰번호가리기0219.cpp" />
