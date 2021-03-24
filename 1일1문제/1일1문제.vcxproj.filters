@@ -135,5 +135,8 @@
     <ClCompile Include="0323다음큰숫자.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0324최댓값과최솟값.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
