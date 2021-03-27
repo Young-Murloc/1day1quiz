@@ -1,7 +1,49 @@
 /*
-dp로 풀기
+1와 0로 채워진 표(board)가 있습니다. 표 1칸은 1 x 1 의 정사각형으로 이루어져 있습니다. 표에서 1로 이루어진 가장 큰 정사각형을 찾아 넓이를 return 하는 solution 함수를 완성해 주세요. (단, 정사각형이란 축에 평행한 정사각형을 말합니다.)
+
+<주의사항>
+dp를 이용한 문제
+memoization를 이용한 문제
+
+board[i][j]를 기준으로 dp[i-1][j], dp[i][j-1], dp[i-1][j-1]중 최솟값 + 1이 dp[i][j]가 된다
+순차적으로 진행하여 최종적으로 가장 큰 dp[i][j] 값을 제곱한 값이 답이 된다.
 */
 
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+int solution(vector<vector<int>> board)
+{
+    int answer = 0;
+    int dp[1000][1000];
+    int row = board.size();
+    int col = board[0].size();
+    
+    for(int i=0; i<row; i++){
+        for(int j=0; j<col; j++){
+            dp[i][j] = board[i][j];
+        }
+    }
+    
+    answer = dp[0][0];
+    
+    for(int i=1; i<row; i++){
+        for(int j=1; j<col; j++){
+            if(dp[i][j] != 0){
+                dp[i][j] = min(min(dp[i-1][j],dp[i][j-1]),dp[i-1][j-1]) + 1;
+                answer = max(answer,dp[i][j]);    
+            }
+        }
+    }
+    
+    return answer * answer;
+}
+
+/*
+dp를 이요하지 않고 접근한 코드
 #include <iostream>
 #include <vector>
 
@@ -91,3 +133,4 @@ int solution(vector<vector<int>> board)
     
     return 0;
 }
+*/
