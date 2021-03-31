@@ -150,5 +150,8 @@
     <ClCompile Include="0330다리를지나는트럭.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0331K번째수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
