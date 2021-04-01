@@ -153,5 +153,8 @@
     <ClCompile Include="0331K번째수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0401체육복.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
