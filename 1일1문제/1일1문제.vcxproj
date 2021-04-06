@@ -151,6 +151,7 @@
     <ClCompile Include="0401체육복.cpp" />
     <ClCompile Include="0402모의고사.cpp" />
     <ClCompile Include="0405조이스틱555.cpp" />
+    <ClCompile Include="0406타겟넘버.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
