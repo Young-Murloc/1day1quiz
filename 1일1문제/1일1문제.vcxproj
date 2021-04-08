@@ -153,6 +153,7 @@
     <ClCompile Include="0405조이스틱555.cpp" />
     <ClCompile Include="0406타겟넘버.cpp" />
     <ClCompile Include="0407베스트앨범333.cpp" />
+    <ClCompile Include="0408이중우선순위큐.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
