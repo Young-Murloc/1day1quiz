@@ -1,0 +1,38 @@
+/*
+네트워크가 분리되어 있는지 확인
+computer[i][i]가 항상 1인점을 사용
+DFS, 재귀를 이용하여 풀이
+*/
+
+#include <string>
+#include <vector>
+#include <iostream>
+
+using namespace std;
+
+bool dfs(vector<vector<int>>& computers, int n){
+    if(!computers[n][n]){
+        return false;
+    }
+    computers[n][n] = 0;
+    
+    for(int i=0; i<computers.size(); i++){
+        if(computers[n][i]){
+            dfs(computers,i);
+        }
+    }
+    return true;
+    
+}
+
+int solution(int n, vector<vector<int>> computers) {
+    int answer = 0;
+    
+    for(int i=0; i<n; i++){
+        if(computers[i][i] && dfs(computers,i)){
+            answer++;
+        }
+    }
+    
+    return answer;
+}
