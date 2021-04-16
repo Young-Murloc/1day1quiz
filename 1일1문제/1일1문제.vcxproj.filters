@@ -186,5 +186,8 @@
     <ClCompile Include="0415행렬의곱셈.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0416오픈채팅방.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

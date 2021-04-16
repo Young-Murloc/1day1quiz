@@ -159,6 +159,7 @@
     <ClCompile Include="0413여행경로555.cpp" />
     <ClCompile Include="0414땅따먹기.cpp" />
     <ClCompile Include="0415행렬의곱셈.cpp" />
+    <ClCompile Include="0416오픈채팅방.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
