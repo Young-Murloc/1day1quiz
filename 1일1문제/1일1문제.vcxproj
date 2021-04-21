@@ -160,6 +160,8 @@
     <ClCompile Include="0414땅따먹기.cpp" />
     <ClCompile Include="0415행렬의곱셈.cpp" />
     <ClCompile Include="0416오픈채팅방.cpp" />
+    <ClCompile Include="0419문자열압축333.cpp" />
+    <ClCompile Include="0421영어끝말잇기.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
@@ -172,6 +174,7 @@
     <ClCompile Include="더맵게0316.cpp" />
     <ClCompile Include="두개뽑아서더하기.cpp" />
     <ClCompile Include="두정수사이의합0209.cpp" />
+    <ClCompile Include="멀쩡한사각형0420.cpp" />
     <ClCompile Include="문자열내림차순으로배치하기0209.cpp" />
     <ClCompile Include="문자열다루기기본0209.cpp" />
     <ClCompile Include="문자열을정수로바꾸기0210.cpp" />

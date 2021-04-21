@@ -189,5 +189,14 @@
     <ClCompile Include="0416오픈채팅방.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0419문자열압축333.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멀쩡한사각형0420.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0421영어끝말잇기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
