@@ -162,6 +162,7 @@
     <ClCompile Include="0416오픈채팅방.cpp" />
     <ClCompile Include="0419문자열압축333.cpp" />
     <ClCompile Include="0421영어끝말잇기.cpp" />
+    <ClCompile Include="0422예상대진표.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
