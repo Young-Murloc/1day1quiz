@@ -45,7 +45,7 @@ int solution(int N, vector<vector<int> > road, int K) {
 
     while (!pq.empty()) {
         int now = pq.top().second;
-        int dist = -pq.top().first;
+        int dist = -pq.top().first;         // 두 노드 사이의 거리를 도출하기 위해?
         pq.pop();
         if (dist > distNumber[now]) continue;
         for (int i = 0; i < adj[now].size(); i++) {
