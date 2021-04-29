@@ -200,6 +200,7 @@
     <ClCompile Include="카펫0315.cpp" />
     <ClCompile Include="콜라츠추측0220.cpp" />
     <ClCompile Include="큰수만들기0304.cpp" />
+    <ClCompile Include="튜플0429.cpp" />
     <ClCompile Include="평균구하기0222.cpp" />
     <ClCompile Include="프린터0315.cpp" />
     <ClCompile Include="피보나치수0310.cpp" />

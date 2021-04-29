@@ -213,5 +213,8 @@
     <ClCompile Include="0428괄호변환.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="튜플0429.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
