@@ -167,6 +167,7 @@
     <ClCompile Include="0426점프와순간이동.cpp" />
     <ClCompile Include="0427짝지어제거하기.cpp" />
     <ClCompile Include="0428괄호변환.cpp" />
+    <ClCompile Include="0430방문길이.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
