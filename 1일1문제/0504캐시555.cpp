@@ -13,6 +13,52 @@ cache miss일 경우 실행시간은 5이다.
 
 #include <string>
 #include <vector>
+#include <deque>
+#include <algorithm>
+#include <iostream>
+
+using namespace std;
+
+int solution(int cacheSize, vector<string> cities) {
+    int answer = 0;
+    deque<string> dq;
+    bool isHit;
+
+    if (cacheSize == 0) {
+        return cities.size() * 5;
+    }
+
+    for (int i = 0; i < cities.size(); i++) {
+        isHit = false;
+        transform(cities[i].begin(), cities[i].end(), cities[i].begin(), ::tolower);
+
+        for (auto itr = dq.begin(); itr != dq.end(); itr++) {
+            if (*itr == cities[i]) {
+                isHit = true;
+                dq.erase(itr);
+                break;
+            }
+        }
+
+        if (isHit) {      // hit
+            answer += 1;
+        }
+        else {           // miss
+            if (dq.size() == cacheSize) {
+                dq.pop_front();
+            }
+            answer += 5;
+        }
+
+        dq.push_back(cities[i]);
+    }
+
+    return answer;
+}
+
+/*
+#include <string>
+#include <vector>
 #include <algorithm>
 
 using namespace std;
@@ -47,3 +93,4 @@ int solution(int cacheSize, vector<string> cities) {
 
     return answer;
 }
+*/
