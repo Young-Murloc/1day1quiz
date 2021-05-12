@@ -231,5 +231,11 @@
     <ClCompile Include="0511소수만들기555.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0512문자열내P와Y의개수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0512예산dp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
