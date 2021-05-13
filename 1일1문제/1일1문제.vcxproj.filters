@@ -237,5 +237,11 @@
     <ClCompile Include="0512예산dp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0513x만큼간격이있는n개의숫자.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0513제일작은수제거하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
