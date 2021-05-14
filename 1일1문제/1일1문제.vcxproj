@@ -176,6 +176,8 @@
     <ClCompile Include="0512예산dp.cpp" />
     <ClCompile Include="0513x만큼간격이있는n개의숫자.cpp" />
     <ClCompile Include="0513제일작은수제거하기.cpp" />
+    <ClCompile Include="0514서울에서김서방찾기.cpp" />
+    <ClCompile Include="0514실패율333.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
