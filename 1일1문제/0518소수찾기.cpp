@@ -1,19 +1,18 @@
 /*
-1ºÎÅÍ ÀÔ·Â¹ÞÀº ¼ýÀÚ n »çÀÌ¿¡ ÀÖ´Â ¼Ò¼öÀÇ °³¼ö¸¦ ¹ÝÈ¯ÇÏ´Â ÇÔ¼ö, solutionÀ» ¸¸µé¾î º¸¼¼¿ä.
+1ë¶€í„° ìž…ë ¥ë°›ì€ ìˆ«ìž n ì‚¬ì´ì— ìžˆëŠ” ì†Œìˆ˜ì˜ ê°œìˆ˜ë¥¼ ë°˜í™˜í•˜ëŠ” í•¨ìˆ˜, solutionì„ ë§Œë“¤ì–´ ë³´ì„¸ìš”.
 
-¼Ò¼ö´Â 1°ú ÀÚ±â ÀÚ½ÅÀ¸·Î¸¸ ³ª´©¾îÁö´Â ¼ö¸¦ ÀÇ¹ÌÇÕ´Ï´Ù.
-(1Àº ¼Ò¼ö°¡ ¾Æ´Õ´Ï´Ù.)
+ì†Œìˆ˜ëŠ” 1ê³¼ ìžê¸° ìžì‹ ìœ¼ë¡œë§Œ ë‚˜ëˆ„ì–´ì§€ëŠ” ìˆ˜ë¥¼ ì˜ë¯¸í•©ë‹ˆë‹¤.
+(1ì€ ì†Œìˆ˜ê°€ ì•„ë‹™ë‹ˆë‹¤.)
 
-Á¦ÇÑ Á¶°Ç
-nÀº 2ÀÌ»ó 1000000ÀÌÇÏÀÇ ÀÚ¿¬¼öÀÔ´Ï´Ù.
+ì œí•œ ì¡°ê±´
+nì€ 2ì´ìƒ 1000000ì´í•˜ì˜ ìžì—°ìˆ˜ìž…ë‹ˆë‹¤.
 
-¿¡¶óÅä½ºÀÇÃ¼ »ç¿ë
+ì—ë¼í† ìŠ¤ì˜ì²´ ì‚¬ìš©
 */
 
 #include <string>
 #include <vector>
 #include <cmath>
-#include <iostream>
 
 using namespace std;
 
