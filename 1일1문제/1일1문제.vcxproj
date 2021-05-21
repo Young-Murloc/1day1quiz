@@ -182,6 +182,7 @@
     <ClCompile Include="0517나누어떨어지는숫자배열.cpp" />
     <ClCompile Include="0518소수찾기.cpp" />
     <ClCompile Include="0520비밀지도카카오.cpp" />
+    <ClCompile Include="0521신규아이디추천카카오.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
