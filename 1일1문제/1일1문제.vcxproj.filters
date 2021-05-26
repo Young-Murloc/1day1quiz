@@ -270,5 +270,11 @@
     <ClCompile Include="0524최대공약수와최소공배수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0525문자열내마음대로정렬하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0526약수의개수와덧셈.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
