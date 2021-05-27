@@ -187,6 +187,7 @@
     <ClCompile Include="0524행렬의덧셈.cpp" />
     <ClCompile Include="0525문자열내마음대로정렬하기.cpp" />
     <ClCompile Include="0526약수의개수와덧셈.cpp" />
+    <ClCompile Include="0527다트게임카카오.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />

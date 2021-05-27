@@ -276,5 +276,8 @@
     <ClCompile Include="0526약수의개수와덧셈.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0527다트게임카카오.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
