@@ -288,5 +288,8 @@
     <ClCompile Include="0601수식최대화카카오.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0602크레인인형뽑기게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
