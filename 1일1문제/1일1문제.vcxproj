@@ -193,6 +193,7 @@
     <ClCompile Include="0601수식최대화카카오.cpp" />
     <ClCompile Include="0602크레인인형뽑기게임.cpp" />
     <ClCompile Include="0603로또의최고순위와최저순위.cpp" />
+    <ClCompile Include="0604괄호회전하기.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
