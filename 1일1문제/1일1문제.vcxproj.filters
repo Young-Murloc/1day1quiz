@@ -303,5 +303,8 @@
     <ClCompile Include="0607행렬테두리회전하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0608프렌즈4블록카카오.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

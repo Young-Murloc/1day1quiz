@@ -196,6 +196,7 @@
     <ClCompile Include="0604괄호회전하기.cpp" />
     <ClCompile Include="0605행렬테두리회전하기555.cpp" />
     <ClCompile Include="0607행렬테두리회전하기.cpp" />
+    <ClCompile Include="0608프렌즈4블록카카오.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
