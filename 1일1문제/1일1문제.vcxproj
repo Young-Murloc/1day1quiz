@@ -198,6 +198,7 @@
     <ClCompile Include="0607행렬테두리회전하기.cpp" />
     <ClCompile Include="0608프렌즈4블록카카오.cpp" />
     <ClCompile Include="0609순위검색카카오777.cpp" />
+    <ClCompile Include="06102개이하로다른비트333.cpp" />
     <ClCompile Include="124나라의숫자0315.cpp" />
     <ClCompile Include="2016년0206.cpp" />
     <ClCompile Include="3진법뒤집기0207.cpp" />
